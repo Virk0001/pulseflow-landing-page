@@ -2,8 +2,8 @@
 
 **Course / Assignment:** Version Control & Distributed Collaboration (Q1)  
 **Project:** PulseFlow — Intelligent Workflow Automation Landing Page  
-**Author:** Rishi  
-**Repository Directory:** `C:\Users\RISHI\.gemini\antigravity\scratch\pulseflow-landing-page`  
+**Author:** Gursher  
+**Repository Directory:** `d:\Projects\pulseflow-landing-page`  
 **Default Branch:** `main`  
 **Feature Branches:** `feature/headline-modern`, `feature/headline-marketing`  
 
@@ -66,10 +66,10 @@ Below is the verified sequence of terminal commands and raw terminal outputs exe
 ### Step 1: Initialize Repository & Commit Baseline
 ```bash
 $ git init -b main
-Initialized empty Git repository in C:/Users/RISHI/.gemini/antigravity/scratch/pulseflow-landing-page/.git/
+Initialized empty Git repository in d:/Projects/pulseflow-landing-page/.git/
 
-$ git config user.name "Rishi"
-$ git config user.email "rishi@example.com"
+$ git config user.name "Gursher"
+$ git config user.email "142846786+Virk0001@users.noreply.github.com"
 
 $ git add .
 $ git commit -m "Initial commit: PulseFlow landing page MVP structure"
@@ -280,7 +280,7 @@ To link this completed local repository to your remote GitHub account and submit
 ```bash
 # 1. Create a new empty repository named "pulseflow-landing-page" on GitHub.com (do NOT initialize with README)
 # 2. In your terminal, navigate to the project directory:
-cd C:\Users\RISHI\.gemini\antigravity\scratch\pulseflow-landing-page
+cd d:\Projects\pulseflow-landing-page
 
 # 3. Add your GitHub remote URL:
 git remote add origin https://github.com/<YOUR-GITHUB-USERNAME>/pulseflow-landing-page.git

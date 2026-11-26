@@ -65,8 +65,8 @@ The resolution was staged with `git add index.html` and concluded with merge com
 ```bash
 # 1. Initialize repository and set default branch
 git init -b main
-git config user.name "Rishi"
-git config user.email "rishi@example.com"
+git config user.name "Gursher"
+git config user.email "142846786+Virk0001@users.noreply.github.com"
 
 # 2. Stage and commit baseline files
 git add .
